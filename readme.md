@@ -16,6 +16,10 @@ Bold **text**
 
 ### unordered lists
 
+``` markdown
+* Item A
+* Item B
+
 ```
 
 ###  Add images
